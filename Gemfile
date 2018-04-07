@@ -44,3 +44,5 @@ group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
 end
 
+gem 'jquery-rails'
+gem 'tinymce-rails'
